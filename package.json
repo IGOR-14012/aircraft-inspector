@@ -112,7 +112,6 @@
       ],
       "icon": "build/icon.png",
       "requestedExecutionLevel": "asInvoker",
-      "signAndEditExecutable": false,
       "verifyUpdateCodeSignature": false
     },
     "nsis": {

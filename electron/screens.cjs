@@ -15,11 +15,9 @@ const SHELL = (body) => `<!doctype html>
 
 const LOGO_SVG = `<svg class="logo" width="64" height="64" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect width="180" height="180" rx="37" fill="#0f172a"/>
-  <circle cx="90" cy="90" r="72" stroke="#38bdf8" stroke-width="4" fill="none" stroke-dasharray="10 7"/>
-  <path d="M40 90 L72 60 L82 70 L66 90 L82 110 L72 120 Z" fill="#38bdf8"/>
-  <path d="M40 90 L140 90" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
-  <path d="M100 90 L140 62" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
-  <path d="M100 90 L140 118" stroke="#38bdf8" stroke-width="7" stroke-linecap="round"/>
+  <path d="M52 132 L75 48 L98 132" stroke="#38bdf8" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M61 98 L89 98" stroke="#38bdf8" stroke-width="14" stroke-linecap="round"/>
+  <path d="M125 48 L125 132" stroke="#38bdf8" stroke-width="14" stroke-linecap="round"/>
 </svg>`
 
 const LOADING_HTML = SHELL(`
