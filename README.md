@@ -5,6 +5,7 @@ A desktop and web app for detecting aircraft surface defects (missing head, pain
 Built with Next.js, React, Tailwind CSS, and packaged as a Windows desktop app with Electron.
 
 ![Aircraft Defect Analyzer main screen](docs/screenshots/main-view.png)
+![Aircraft Defect Analyzer main screen](docs/screenshots/Test.png)
 
 ## Download
 
